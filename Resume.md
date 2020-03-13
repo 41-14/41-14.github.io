@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>UF Organization Chart</h1>
+			<h1>Tyler Dominguez</h1>
 		</header>
 
 
@@ -29,13 +29,6 @@ nav-menu: true
 
 <div class=WordSection1>
 
-<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-text-align:center;line-height:110%'><b><span style='font-size:12.0pt;
-line-height:110%;color:white'>TYLER DOMINGUEZ</span></b></p>
-
-<p class=MsoNormal align=center style='margin-bottom:0in;margin-bottom:.0001pt;
-text-align:center;line-height:110%'><span style='font-size:12.0pt;line-height:
-110%;color:white'> (772) 577-0581</span></p>
 
 <h1 style='margin-top:0in;margin-right:11.4pt;margin-bottom:6.45pt;margin-left:
 -.25pt;text-indent:0in'><span style='font-size:12.0pt;line-height:107%;
