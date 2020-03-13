@@ -1,7 +1,7 @@
 # site settings
 title: Data Visualizations 
 subtitle: by Tyler Dominguez
-email: tyler.dominguez@yahoo.com
+email: t3634245@gmail.com
 
 description:
     Tyler Dominguez<br>
@@ -16,10 +16,10 @@ url: https://41-14.github.io # the base hostname & protocol for your site
 author:
 street_address: 
 city: Gainesville
-state: FL
-zip_code: 32608
+state: Florida
+zip_code:
 country: United States of America
-phone: (772) 577-0581
+phone: fortyonefourteen#4114
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
