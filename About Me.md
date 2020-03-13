@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-nav-menu: false
+title: About Me
+nav-menu: true
 ---
 
 <!-- Main -->
@@ -11,7 +11,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
@@ -44,7 +44,7 @@ nav-menu: false
 <hr class="major" />
 
 <!-- Elements -->
-<h2 id="elements">Elements</h2>
+<h2 id="elements">About Me</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
