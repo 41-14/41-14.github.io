@@ -1,10 +1,21 @@
 ---
-layout: post
+layout: page
 title: Resume
 description: 
-image:
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>UF Organization Chart</h1>
+		</header>
+
 
 <html>
 
