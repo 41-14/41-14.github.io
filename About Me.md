@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 nav-menu: true
+image: assets/images/Graduation.jpg
 ---
 
 <!-- Main -->
