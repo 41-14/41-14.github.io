@@ -78,3 +78,7 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+	
+.entry-content p br {
+    display: block;
+}
