@@ -15,7 +15,7 @@ phone: (772) 577-0581
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 1
 
 # social settings
 500px_url:
