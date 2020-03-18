@@ -16,30 +16,26 @@ image: assets/images/Graduation.jpg
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Education</h2>
+<p>I studied Geography at the University of Florida with a focus in Geographic Information Systems. I ended up in Geography after completing What is the Good Life? with Dr. Jane Southworth and switching from Statistics.  Dr. Southworth along with the rest of the Geography department have taught me so much and to expand upon this knowledge I have started a master’s degree in Data Science at DePaul University. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Hobbies</h3>
+				<p>In my free time, I like to collect and listen to vinyl, ride peloton, and take my dog to the dog park. My vinyl collection is currently small at about 70 records but is growing everyday and I my dog is a very high energy two year old Siberian Husky named Niamh. I also play guitar and bass to a limited extent, although I’m generally just more into collecting audio equipment for them rather than actually playing. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
-	</div>
+		<h3>Sports</h3>
+<p>I am pretty into watching sports. I credit that largely to going to the University of Florida where I closely follow Men’s Basketball and Football. At the professional level I am a fan of: the Ravens and the Orioles (family from Baltimore), Nets (Chiozza) and Aresenal. I try to attend every Gator’s home game and have been successful at doing it both during undergrad and after graduation. In the url, 41-14 is a reference to the score that UF demolished the Ohio State University by to win a national championship.</p>	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+		<h3>Hometown</h3>
+<p>I was born in Martin County, Florida where I lived until I started Undergrad. It is a beautiful area on the coast down south that I hope to return to when I am older. However, currently I love living in Gainesville as it has a good ratio of people to traffic along with a young, educated and diverse demographic.</p>	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+		<h3>R vs Python</h3>
+I have a strong preference to use Python over R. I really like python’s syntax and flow; it just really interfaces with how I think. I think this might have to do with which one I learned first but can’t be sure. I am glad however, that I was forced to learn both because I think it makes me able to work in the one more optimal for a given task.</	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+		<h3>Employment</h3>
+<p>I am currently working as a Data Analyst/Tableau developer at a Civil Engineering firm. I am so lucky to have been given this opportunity right out of school and to be able to have grown from GIS into Data Analytics. However, I think the field isn’t the right for me and hope to be able to move on from it in the future.</p>	</div>
 </div>
 
 
