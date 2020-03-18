@@ -2,7 +2,7 @@
 layout: page
 title: UF Org Chart
 nav-menu: true
-image: assets/images/
+image: assets/images/hs.jpg
 ---
 
 <!-- Main -->
