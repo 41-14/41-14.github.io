@@ -2,7 +2,7 @@
 layout: page
 title: REST API & Tableau
 nav-menu: true
-image: assets/images/pic05.jpg
+image: assets/images/a.jpg
 ---
 
 <!-- Main -->
