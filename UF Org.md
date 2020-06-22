@@ -9,7 +9,7 @@ image: assets/images/pic07.jpg
 <div id="main" class="alt">
 
 <!-- One -->
-<section id="two">
+<section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>UF Organization Chart</h1>
