@@ -12,7 +12,7 @@ image: assets/images/pic05.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>UF Organization Chart</h1>
+			<h1>My Vinyl Collection</h1>
 		</header>
 
 <!-- Content -->
